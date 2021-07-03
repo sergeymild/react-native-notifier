@@ -2,9 +2,9 @@
   "name": "react-native-notifier",
   "version": "1.6.107",
   "description": "Fast and simple in-app notifications for React Native",
-  "main": "src/index",
-  "module": "src/index",
-  "react-native": "src/index",
+  "main": "src/index.tsx",
+  "module": "src/index.tsx",
+  "react-native": "src/index.tsx",
   "files": [
     "src",
     "lib"
